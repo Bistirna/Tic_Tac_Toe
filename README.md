@@ -15,8 +15,9 @@ It is a browser-based game where two players can play alternately.
 - JavaScript
 
 ##  Screenshots
-<img width="1920" height="1080" alt="Screenshot (238)" src="https://github.com/user-attachments/assets/55e25041-5ebd-49df-afb4-d6bd8f9d0826" />
-<img width="1920" height="1080" alt="Screenshot (240)" src="https://github.com/user-attachments/assets/95353ecb-3038-4786-8182-65cc6b4b1cbd" />
+<img width="1920" height="891" alt="tic tac toe 1" src="https://github.com/user-attachments/assets/aed71f04-b017-47d2-aaae-d767e26e5aca" />
+<img width="1898" height="915" alt="tic tac toe" src="https://github.com/user-attachments/assets/bb11758b-d020-4feb-a92a-e856684ec6c6" />
+
 
 
 ##  How to Run
